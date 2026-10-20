@@ -1,0 +1,3 @@
+"Name","Unit","Description","UCD (hover for description)"
+"CATID","none","SAMI Galaxy ID","meta.id"
+"TYPE","none","Morphological Type (0=E; 0.5=E/S0; 1=S0; 1.5=S0/Early-spiral; 2=Early-spiral; 2.5=Early/Late spiral; 3=Late spiral; 5=?; -9=no agreement)","meta.code.class"
